@@ -4,6 +4,6 @@ This proof of concept demonstrates the concept of using cloud-based operations f
 
 <h3>Demo video: https://youtu.be/_XKjZ5PoYlU <br/>
 
-<h4>Faculty Advisor: Ashwin Ashok </h4><br/>
-<h4>Mentor: Bhagirath Tallapragada </h4><br/>
-<h4>Group Members: Pari Shah, Iyin Tugbobo, Eiden Garcia </h4><br/>
+<h4>Faculty Advisor: Ashwin Ashok </h4>
+<h4>Mentor: Bhagirath Tallapragada </h4>
+<h4>Group Members: Pari Shah, Iyin Tugbobo, Eiden Garcia </h4>
