@@ -1,4 +1,5 @@
 # RETRO: Remote Tandem Robots
+Georgia State University Research Experience for Undergraduates Program <br/>
 This proof of concept demonstrates the concept of using cloud-based operations for conducting remote experiments and controlling testbeds <br/>
 
 <h3>Demo video: https://youtu.be/_XKjZ5PoYlU </h3>
