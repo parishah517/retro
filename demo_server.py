@@ -3,7 +3,6 @@ import socket
 import struct
 import threading
 
-
 class Server:
     def __init__(self):
         self.host = '71.56.5.98'
